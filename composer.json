@@ -4,5 +4,10 @@
   "description": "Helper.php",
   "require": {
     "php": "^7.0"
+  },
+  "autoload": {
+    "files": [
+      "Helper.php"
+    ]
   }
 }
