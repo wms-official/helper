@@ -3,7 +3,6 @@
   "license": "GPL-3.0",
   "description": "Helper.php",
   "require": {
-    "php": "^7.0",
-    "wms/helper": "1.0"
+    "php": "^7.0"
   }
 }
