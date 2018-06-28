@@ -1,5 +1,5 @@
 {
-  "name": "wms/helper",
+  "name": "wmstudio/helper",
   "license": "GPL-3.0",
   "description": "Helper.php",
   "require": {
