@@ -1,7 +1,7 @@
 {
   "name": "wmstudio/helper",
   "license": "GPL-3.0",
-  "description": "Helper.php",
+  "description": "helper.php",
   "require": {
     "php": "^7.0"
   },
